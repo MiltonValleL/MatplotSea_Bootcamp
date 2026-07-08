@@ -62,16 +62,16 @@ By the end of this course, you'll be able to:
 ## Course Outline & Progress
 
 ### Module 1 — Intro to Python Data Visualization
-- [ ] Data visualization frameworks and libraries
-- [ ] Best practices for chart selection
-- [ ] Effective formatting principles
-- [ ] Visual storytelling fundamentals
-- [ ] Common visualization errors
+- [x] Data visualization frameworks and libraries
+- [x] Best practices for chart selection
+- [x] Effective formatting principles
+- [x] Visual storytelling fundamentals
+- [x] Common visualization errors
 
 ### Module 2 — Matplotlib Fundamentals
-- [ ] Figure and Axes architecture (the OOP API)
-- [ ] Building line charts
-- [ ] Building bar charts
+- [x] Figure and Axes architecture (the OOP API)
+- [x] Building line charts
+- [x] Building bar charts
 - [ ] Building scatter plots
 - [ ] Building histograms
 - [ ] Building pie & donut charts
