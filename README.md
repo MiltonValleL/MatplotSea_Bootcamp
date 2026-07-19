@@ -72,10 +72,10 @@ By the end of this course, you'll be able to:
 - [x] Figure and Axes architecture (the OOP API)
 - [x] Building line charts
 - [x] Building bar charts
-- [ ] Building scatter plots
-- [ ] Building histograms
-- [ ] Building pie & donut charts
-- [ ] Common chart customization techniques
+- [x] Building scatter plots
+- [x] Building histograms
+- [x] Building pie & donut charts
+- [x] Common chart customization techniques
 
 ### 🏁 **PROJECT #1** — Analyzing the Global Coffee Market
 - [ ] Load and explore coffee market data (CSV)
