@@ -4,9 +4,9 @@
 
 <br>
 
-### Begin on Sunday, Jun 19, 2026
+### Begin on Sunday, Jul 19, 2026
 
-### End on Monday, Jun 20, 2026
+### End on Monday, Jul 20, 2026
 
 <br>
 
