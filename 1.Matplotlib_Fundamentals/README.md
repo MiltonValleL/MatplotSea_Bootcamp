@@ -1,6 +1,6 @@
 # Python Data Visualization: Matplotlib & Seaborn Masterclass
 
-## Chapter: Matplotlib Fundamentals
+## CHAPTER 1: Matplotlib Fundamentals
 
 <br>
 
