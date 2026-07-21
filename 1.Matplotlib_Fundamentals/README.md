@@ -6,7 +6,7 @@
 
 ### Begin on Thursday, Jun 25, 2026
 
-### End on Thursday, Jul 18, 2026
+### End on Saturday, Jul 18, 2026
 
 <br>
 
