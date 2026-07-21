@@ -1,6 +1,6 @@
 # Python Data Visualization: Matplotlib & Seaborn Masterclass
 
-## PROJECT NO. 1: Analyzing the Global Coffee Market
+## CHAPTER 2: Analyzing the Global Coffee Market (Project No. 1)
 
 <br>
 
