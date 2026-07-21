@@ -78,18 +78,18 @@ By the end of this course, you'll be able to:
 - [x] Common chart customization techniques
 
 ### 🏁 **PROJECT #1** — Analyzing the Global Coffee Market
-- [ ] Load and explore coffee market data (CSV)
-- [ ] Create multi-chart visualizations for volume analysis
-- [ ] Visualize price trends by country and region
-- [ ] Communicate key insights with Matplotlib
-- [ ] **Deliverable**: Comprehensive coffee market analysis notebook
+- [x] Load and explore coffee market data (CSV)
+- [x] Create multi-chart visualizations for volume analysis
+- [x] Visualize price trends by country and region
+- [x] Communicate key insights with Matplotlib
+- [x] **Deliverable**: Comprehensive coffee market analysis notebook
 
 | Project Details | |
 |---|---|
 | **Dataset** | Global coffee trader data · Volume & price by country |
 | **Skills Applied** | Data loading · Exploratory visualization · Matplotlib customization |
-| **Notebook** | [`project-1-coffee-market.ipynb`](#) |
-| **Status** | ⏳ Pending |
+| **Notebook** | [`Project_1.ipynb`](https://github.com/MiltonValleL/MatplotSea_Bootcamp/tree/main/2.Project_no.1)) |
+| **Status** | ✅ Completed |
 
 ---
 
